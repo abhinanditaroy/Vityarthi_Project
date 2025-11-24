@@ -1,7 +1,7 @@
 Problem Statement
 The challenge is to implement a two-player Tic-Tac-Toe game on a 3x3 grid played in turns. Players alternate moves, placing 'X' or 'O' in empty cells. 
 The objective is to connect three of their symbols in a straight line—horizontally, vertically, or diagonally—before the opponent does. 
-If the grid is filled without any player achieving this, the game is declared a draw.​
+If the grid is filled without any player achieving this, the game is declared a draw.
 
 Scope of the Project
 1)Console-based game for 2 participants using text input/output.
