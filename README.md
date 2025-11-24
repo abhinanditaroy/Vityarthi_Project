@@ -19,7 +19,7 @@ TECHNOLOGIES USED:
 
 STEPS TO INSTALL AND RUN:
 1.	Download or copy the Python script into a local file, e.g., tic_tac_toe.py.
-2.	Make sure Python (3.x) is installed on your system.
+2.	Make sure Python (3.13) is installed on your system.
 3.	Open a terminal or command prompt.
 4.	Navigate to the directory containing tic_tac_toe.py.
 5.	Run the game using:   python tic_tac_toe.py
