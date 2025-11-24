@@ -23,7 +23,7 @@ STEPS TO INSTALL AND RUN
 3.	Open a terminal or command prompt.
 4.	Navigate to the directory containing tic_tac_toe.py.
 5.	Run the game using:   python tic_tac_toe.py
-6.	
+	
 INSTRUCTIONS FOR TESTING
 •	When prompted, enter your moves by specifying row and column numbers separated by a space (e.g., 1 2).
 •	Only positions labelled with a blank space can be chosen.
@@ -31,6 +31,12 @@ INSTRUCTIONS FOR TESTING
 •	After a win or draw, the game exits automatically.
 
 SCREENSHOT
+<img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/d128a06b-5e9f-4987-9339-2896ecf6ac3b" />
+<img width="952" height="811" alt="image" src="https://github.com/user-attachments/assets/6455109c-72d4-4978-962a-27b8fde32c36" />
+<img width="950" height="390" alt="image" src="https://github.com/user-attachments/assets/377bcf9d-9fa8-48ad-bc20-10d1132ea62d" />
+
+
+
  
   
 
